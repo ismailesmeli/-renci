@@ -1,5 +1,4 @@
-[
-    {
+[{
         "ad": "SELİM",
         "soyad": "ÖZÇELİK",
         "tc": "18289420228"
@@ -25,9 +24,9 @@
         "tc": "23389250170"
     },
     {
-        "tc_hash": "",
         "ad": "ÖMER ZAHİD",
-        "soyad": "YAZIR"
+        "soyad": "YAZIR",
+        "tc": ""
     },
     {
         "ad": "NISA",
@@ -35,14 +34,14 @@
         "tc": "27430132248"
     },
     {
-        "tc_hash": "",
         "ad": "GÖKCE MEYRA",
-        "soyad": "DEMİR"
+        "soyad": "DEMİR",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "AZRA BETÜL",
-        "soyad": "BALCI"
+        "soyad": "BALCI",
+        "tc": ""
     },
     {
         "ad": "SİMAY",
@@ -60,9 +59,9 @@
         "tc": "28528078820"
     },
     {
-        "tc_hash": "",
         "ad": "ENSAR",
-        "soyad": "AKIN"
+        "soyad": "AKIN",
+        "tc": ""
     },
     {
         "ad": "SELİM",
@@ -75,9 +74,9 @@
         "tc": "25114192588"
     },
     {
-        "tc_hash": "",
         "ad": "MİRAÇ",
-        "soyad": "DEMİRPOLAT"
+        "soyad": "DEMİRPOLAT",
+        "tc": ""
     },
     {
         "ad": "SABİHA ESLEM",
@@ -85,9 +84,9 @@
         "tc": "20152357982"
     },
     {
-        "tc_hash": "",
         "ad": "ETEM ÇINAR",
-        "soyad": "DEMİRAYAK"
+        "soyad": "DEMİRAYAK",
+        "tc": ""
     },
     {
         "ad": "KEREM",
@@ -110,14 +109,14 @@
         "tc": "19433917434"
     },
     {
-        "tc_hash": "",
         "ad": "AYŞEN FEYZA",
-        "soyad": "ÖZKAN"
+        "soyad": "ÖZKAN",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "SERRA",
-        "soyad": "SAVAŞ"
+        "soyad": "SAVAŞ",
+        "tc": ""
     },
     {
         "ad": "AYŞE MEVA",
@@ -140,9 +139,9 @@
         "tc": "28738071994"
     },
     {
-        "tc_hash": "",
         "ad": "BERAT EGEMEN",
-        "soyad": "KILLI"
+        "soyad": "KILLI",
+        "tc": ""
     },
     {
         "ad": "HIRA",
@@ -150,9 +149,9 @@
         "tc": "20008362832"
     },
     {
-        "tc_hash": "",
         "ad": "ERTUĞRUL",
-        "soyad": "ERKEN"
+        "soyad": "ERKEN",
+        "tc": ""
     },
     {
         "ad": "ZEHRA",
@@ -175,19 +174,19 @@
         "tc": "29287053400"
     },
     {
-        "tc_hash": "",
         "ad": "BARLAS",
-        "soyad": "KÖKSAL"
+        "soyad": "KÖKSAL",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "RÜYA",
-        "soyad": "OBUT"
+        "soyad": "OBUT",
+        "tc": ""
     },
     {
-        "tc_hash": "2524f3ea1879dc7976c131c5a34f30bb6fd951cb1abb0f44096bd1a25132b869",
         "ad": "KAYRA",
-        "soyad": "KOYUNLU"
+        "soyad": "KOYUNLU",
+        "tc": ""
     },
     {
         "ad": "YİĞİT",
@@ -200,9 +199,9 @@
         "tc": "16954464638"
     },
     {
-        "tc_hash": "d3edcd0e48f701000a09d6b67a76f977f856364c43bdb6f9806b312ea2d1da60",
         "ad": "EYMEN",
-        "soyad": "ARSLAN"
+        "soyad": "ARSLAN",
+        "tc": ""
     },
     {
         "ad": "YASİR",
@@ -215,9 +214,9 @@
         "tc": "27154929278"
     },
     {
-        "tc_hash": "",
         "ad": "EMİNE ELİF",
-        "soyad": "KELEPÇE"
+        "soyad": "KELEPÇE",
+        "tc": ""
     },
     {
         "ad": "SALİHA SEVDE",
@@ -235,9 +234,9 @@
         "tc": "27718105988"
     },
     {
-        "tc_hash": "",
         "ad": "AYŞE SÜMEYYE",
-        "soyad": "USLU"
+        "soyad": "USLU",
+        "tc": ""
     },
     {
         "ad": "ERVA",
@@ -245,14 +244,14 @@
         "tc": "28387083492"
     },
     {
-        "tc_hash": "",
         "ad": "EYMEN EFE",
-        "soyad": "SAĞMAN"
+        "soyad": "SAĞMAN",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "MEHMET",
-        "soyad": "CENGİZ"
+        "soyad": "CENGİZ",
+        "tc": ""
     },
     {
         "ad": "ASYA",
@@ -285,9 +284,9 @@
         "tc": "28540078464"
     },
     {
-        "tc_hash": "",
         "ad": "GÜLFİDAN",
-        "soyad": "ÇOBAN"
+        "soyad": "ÇOBAN",
+        "tc": ""
     },
     {
         "ad": "HALİL İBRAHİM",
@@ -300,9 +299,9 @@
         "tc": "67750079786"
     },
     {
-        "tc_hash": "",
         "ad": "ALI KEMAL",
-        "soyad": "ACAR"
+        "soyad": "ACAR",
+        "tc": ""
     },
     {
         "ad": "FATMA",
@@ -320,9 +319,9 @@
         "tc": "13993563278"
     },
     {
-        "tc_hash": "",
         "ad": "ELİF NIDA",
-        "soyad": "KOCABÖREK"
+        "soyad": "KOCABÖREK",
+        "tc": ""
     },
     {
         "ad": "ZEYNEP",
@@ -350,9 +349,9 @@
         "tc": "23074260712"
     },
     {
-        "tc_hash": "",
         "ad": "CEYDA",
-        "soyad": "KAYA"
+        "soyad": "KAYA",
+        "tc": ""
     },
     {
         "ad": "HÜSEYİN MUSAB",
@@ -400,9 +399,9 @@
         "tc": "14461528270"
     },
     {
-        "tc_hash": "",
         "ad": "MEHMET",
-        "soyad": "ÇİLENKER"
+        "soyad": "ÇİLENKER",
+        "tc": ""
     },
     {
         "ad": "AMINE SARE",
@@ -410,19 +409,19 @@
         "tc": "28057094476"
     },
     {
-        "tc_hash": "",
         "ad": "RAMAZAN SAİD",
-        "soyad": "KIRAK"
+        "soyad": "KIRAK",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "SELİM BERAT",
-        "soyad": "UN"
+        "soyad": "UN",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "MIKAIL",
-        "soyad": "ΤΟΥ"
+        "soyad": "ΤΟΥ",
+        "tc": ""
     },
     {
         "ad": "YUSUF EYMEN",
@@ -435,9 +434,9 @@
         "tc": "24889200160"
     },
     {
-        "tc_hash": "",
         "ad": "DEFNE",
-        "soyad": "ŞAHİN"
+        "soyad": "ŞAHİN",
+        "tc": ""
     },
     {
         "ad": "ZAHİDE",
@@ -445,9 +444,9 @@
         "tc": "24499213284"
     },
     {
-        "tc_hash": "",
         "ad": "MURATHAN",
-        "soyad": "HEKİMOĞLU"
+        "soyad": "HEKİMOĞLU",
+        "tc": ""
     },
     {
         "ad": "ALİ",
@@ -465,14 +464,14 @@
         "tc": "23992230156"
     },
     {
-        "tc_hash": "",
         "ad": "ENES",
-        "soyad": "TATLI"
+        "soyad": "TATLI",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "ΑΗΜΕΤ ΕYMEN",
-        "soyad": "MARAA"
+        "soyad": "MARAA",
+        "tc": ""
     },
     {
         "ad": "ÜLKÜ",
@@ -485,19 +484,19 @@
         "tc": "27364136046"
     },
     {
-        "tc_hash": "",
         "ad": "AMINE",
-        "soyad": "ÜRKÜTLÜ"
+        "soyad": "ÜRKÜTLÜ",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "FATMA NUR",
-        "soyad": "KARABACAK"
+        "soyad": "KARABACAK",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "ERVANUR",
-        "soyad": "BABACIK"
+        "soyad": "BABACIK",
+        "tc": ""
     },
     {
         "ad": "ŞEYMA NAZ",
@@ -505,9 +504,9 @@
         "tc": "21371852852"
     },
     {
-        "tc_hash": "",
         "ad": "ELİF ERVA",
-        "soyad": "YENİDÜNYA"
+        "soyad": "YENİDÜNYA",
+        "tc": ""
     },
     {
         "ad": "RAMAZAN TALHA",
@@ -555,14 +554,14 @@
         "tc": "26572143976"
     },
     {
-        "tc_hash": "",
         "ad": "İKRA NUR",
-        "soyad": "DEVELİ"
+        "soyad": "DEVELİ",
+        "tc": ""
     },
     {
-        "tc_hash": "66370ef769c5d7319892ae0ae64359980978fbe05e9ef8cf3b2eb10296df2c82",
         "ad": "KADER ZEKİYE",
-        "soyad": "DEMİR"
+        "soyad": "DEMİR",
+        "tc": ""
     },
     {
         "ad": "ELİF SENA",
@@ -575,39 +574,39 @@
         "tc": "29299053054"
     },
     {
-        "tc_hash": "",
         "ad": "MENESA",
-        "soyad": "SARI"
+        "soyad": "SARI",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "EGE",
-        "soyad": "ÖZ"
+        "soyad": "ÖZ",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "DENİZ",
-        "soyad": "ARAS"
+        "soyad": "ARAS",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "HASAN EMİR",
-        "soyad": "YORULMAZ"
+        "soyad": "YORULMAZ",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "MEHMET",
-        "soyad": "ŞAHİN"
+        "soyad": "ŞAHİN",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "ELİF",
-        "soyad": "ÇAKMAK"
+        "soyad": "ÇAKMAK",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "ZEHRA",
-        "soyad": "KIR"
+        "soyad": "KIR",
+        "tc": ""
     },
     {
         "ad": "EYMEN",
@@ -615,9 +614,9 @@
         "tc": "26287153598"
     },
     {
-        "tc_hash": "",
         "ad": "AYAZ",
-        "soyad": "KAHRAMAN"
+        "soyad": "KAHRAMAN",
+        "tc": ""
     },
     {
         "ad": "HİFANAZ",
@@ -640,29 +639,29 @@
         "tc": "21217322426"
     },
     {
-        "tc_hash": "",
         "ad": "RAMAZAN",
-        "soyad": "MOR"
+        "soyad": "MOR",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "YUSUF",
-        "soyad": "TAŞ"
+        "soyad": "TAŞ",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "ELİF",
-        "soyad": "ÇİLENKER"
+        "soyad": "ÇİLENKER",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "ALİŞERZAN",
-        "soyad": "YEŞİLTAŞ"
+        "soyad": "YEŞİLTAŞ",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "KAAN EFE",
-        "soyad": "KARA"
+        "soyad": "KARA",
+        "tc": ""
     },
     {
         "ad": "İHSAN YAVUZ",
@@ -670,14 +669,14 @@
         "tc": "45703709904"
     },
     {
-        "tc_hash": "",
         "ad": "EBUBEKİR",
-        "soyad": "TİLKİ"
+        "soyad": "TİLKİ",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "OZAN",
-        "soyad": "İNCELER"
+        "soyad": "İNCELER",
+        "tc": ""
     },
     {
         "ad": "YUSUF",
@@ -685,29 +684,29 @@
         "tc": "17941431718"
     },
     {
-        "tc_hash": "",
         "ad": "EYÜP",
-        "soyad": "ÖZGÜR"
+        "soyad": "ÖZGÜR",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "İSMET EMİR",
-        "soyad": "AY"
+        "soyad": "AY",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "YAVUZ SELİM",
-        "soyad": "TÜRKMEN"
+        "soyad": "TÜRKMEN",
+        "tc": ""
     },
     {
-        "tc_hash": "7da2f2908a33ae654aae5e40220237f372cdf664133296cc5f81bc9a5f23cacc",
         "ad": "ΖΕΥΝΕΡ",
-        "soyad": "ΑΥΒEK"
+        "soyad": "ΑΥΒEK",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "UMUT",
-        "soyad": "AKSOY"
+        "soyad": "AKSOY",
+        "tc": ""
     },
     {
         "ad": "ÖNCEL",
@@ -715,9 +714,9 @@
         "tc": "28714072618"
     },
     {
-        "tc_hash": "",
         "ad": "NİSANUR",
-        "soyad": "DURMAZ"
+        "soyad": "DURMAZ",
+        "tc": ""
     },
     {
         "ad": "ERTUĞRUL",
@@ -730,9 +729,9 @@
         "tc": "20159893254"
     },
     {
-        "tc_hash": "607ea52994084bfde4edad618ae4c6a55db2258389d0f50928006bc99672aea7",
         "ad": "SÜLEYMAN ALİ",
-        "soyad": "ŞAHİN"
+        "soyad": "ŞAHİN",
+        "tc": ""
     },
     {
         "ad": "EYMEN TALHA",
@@ -740,19 +739,19 @@
         "tc": "18124425524"
     },
     {
-        "tc_hash": "",
         "ad": "ZAVEN",
-        "soyad": "ÖNAL"
+        "soyad": "ÖNAL",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "AYŞENAZ",
-        "soyad": "ÖRNEK"
+        "soyad": "ÖRNEK",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "ZEYNEP",
-        "soyad": "KIR"
+        "soyad": "KIR",
+        "tc": ""
     },
     {
         "ad": "MUHAMMET UĞUR",
@@ -760,14 +759,14 @@
         "tc": "17713439454"
     },
     {
-        "tc_hash": "",
         "ad": "HAMZA",
-        "soyad": "YILMAZ"
+        "soyad": "YILMAZ",
+        "tc": ""
     },
     {
-        "tc_hash": "",
         "ad": "MUHAMMED YAHYA",
-        "soyad": "DÜZC"
+        "soyad": "DÜZC",
+        "tc": ""
     },
     {
         "ad": "İZZET",
@@ -790,9 +789,9 @@
         "tc": "23473247406"
     },
     {
-        "tc_hash": "",
         "ad": "ALİ",
-        "soyad": "YALIN"
+        "soyad": "YALIN",
+        "tc": ""
     },
     {
         "ad": "OSMAN KEREM",
@@ -832,7 +831,7 @@
     {
         "ad": "Mehmet",
         "soyad": "Bayramhan",
-        "tc_hash": "54ea253dd99f8300419d44c9538f23329881f48a423e8c1e83a79913194154e4"
+        "tc": ""
     },
     {
         "ad": "Hava Gül",
@@ -867,7 +866,7 @@
     {
         "ad": "Ahnet bedevi",
         "soyad": "Taşdöven",
-        "tc_hash": "97f366561d02027c2cfef3e4ed1d23d2b1fd8c9ec3f0e05a8eed04c1d40dd238"
+        "tc": ""
     },
     {
         "ad": "Mustafa",
