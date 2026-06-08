@@ -165,12 +165,18 @@
             }
 
             try {
+                // Girilen TC'yi anında şifrele (SHA-256)
+                const msgUint8 = new TextEncoder().encode(tc);
+                const hashBuffer = await crypto.subtle.digest('SHA-256', msgUint8);
+                const hashArray = Array.from(new Uint8Array(hashBuffer));
+                const girilenTcHash = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+
                 // JSON'daki verileri getir
                 const ogrenciResponse = await fetch('ogrenciler.json');
                 const ogrenciler = await ogrenciResponse.json();
 
-                // TC'yi doğrudan eşleştiriyoruz
-                const bulunanOgrenci = ogrenciler.find(ogr => ogr.tc === tc);
+                // Şifreli TC'yi eşleştiriyoruz
+                const bulunanOgrenci = ogrenciler.find(ogr => ogr.tc_hash === girilenTcHash);
 
                 if (!bulunanOgrenci) {
                     sonucDiv.innerHTML = "Sisteme kayıtlı böyle bir TC bulunamadı.";
